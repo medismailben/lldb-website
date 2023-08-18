@@ -1,0 +1,9 @@
+@import 'furo.css';
+
+.content {
+  width: 100%
+}
+
+.sidebar-drawer {
+  width: auto
+}
